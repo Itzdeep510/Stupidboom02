@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "STUPID BOT V2",
-    "PREFIX": "/",
+    "PREFIX": "+",
     "ADMINBOT": [
         "100070180085781"
     ],
