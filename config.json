@@ -17,12 +17,12 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "STUPID BOT V2",
-    "PREFIX": "+",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "100070180085781"
+        "61578099665037"
     ],
     "NDH": [
-        "100070180085781"
+        "61578099665037"
     ],
     "DATABASE": {
         "sqlite": {
