@@ -5,8 +5,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-28T13:29:07.955Z",
-        "lastAccessed": "2025-08-28T13:29:07.955Z"
+        "creation": "2025-08-28T15:31:45.278Z",
+        "lastAccessed": "2025-08-28T15:31:45.278Z"
     },
     {
         "key": "dpr",
@@ -14,8 +14,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-28T13:29:07.955Z",
-        "lastAccessed": "2025-08-28T13:29:07.955Z"
+        "creation": "2025-08-28T15:31:45.278Z",
+        "lastAccessed": "2025-08-28T15:31:45.278Z"
     },
     {
         "key": "locale",
@@ -23,8 +23,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-28T13:29:07.955Z",
-        "lastAccessed": "2025-08-28T13:29:07.955Z"
+        "creation": "2025-08-28T15:31:45.278Z",
+        "lastAccessed": "2025-08-28T15:31:45.278Z"
     },
     {
         "key": "pas",
@@ -32,8 +32,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-28T13:29:07.955Z",
-        "lastAccessed": "2025-08-28T13:29:07.955Z"
+        "creation": "2025-08-28T15:31:45.278Z",
+        "lastAccessed": "2025-08-28T15:31:45.278Z"
     },
     {
         "key": "datr",
@@ -41,8 +41,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-28T13:29:07.955Z",
-        "lastAccessed": "2025-08-28T13:29:07.955Z"
+        "creation": "2025-08-28T15:31:45.278Z",
+        "lastAccessed": "2025-08-28T15:31:45.278Z"
     },
     {
         "key": "ps_l",
@@ -50,8 +50,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-28T13:29:07.955Z",
-        "lastAccessed": "2025-08-28T13:29:07.955Z"
+        "creation": "2025-08-28T15:31:45.278Z",
+        "lastAccessed": "2025-08-28T15:31:45.278Z"
     },
     {
         "key": "ps_n",
@@ -59,8 +59,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-28T13:29:07.955Z",
-        "lastAccessed": "2025-08-28T13:29:07.955Z"
+        "creation": "2025-08-28T15:31:45.278Z",
+        "lastAccessed": "2025-08-28T15:31:45.278Z"
     },
     {
         "key": "wd",
@@ -68,8 +68,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-28T13:29:07.955Z",
-        "lastAccessed": "2025-08-28T13:29:07.955Z"
+        "creation": "2025-08-28T15:31:45.278Z",
+        "lastAccessed": "2025-08-28T15:31:45.278Z"
     },
     {
         "key": "c_user",
@@ -77,8 +77,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-28T13:29:07.955Z",
-        "lastAccessed": "2025-08-28T13:29:07.955Z"
+        "creation": "2025-08-28T15:31:45.278Z",
+        "lastAccessed": "2025-08-28T15:31:45.278Z"
     },
     {
         "key": "oo",
@@ -86,17 +86,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-28T13:29:07.955Z",
-        "lastAccessed": "2025-08-28T13:29:07.955Z"
-    },
-    {
-        "key": "presence",
-        "value": "C%7B%22lm3%22%3A%22g.24286481540985536%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1756385502555%2C%22v%22%3A1%7D",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-08-28T13:29:07.955Z",
-        "lastAccessed": "2025-08-28T13:29:07.955Z"
+        "creation": "2025-08-28T15:31:45.278Z",
+        "lastAccessed": "2025-08-28T15:31:45.278Z"
     },
     {
         "key": "xs",
@@ -104,7 +95,7 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2025-08-28T13:29:07.955Z",
-        "lastAccessed": "2025-08-28T13:29:07.955Z"
+        "creation": "2025-08-28T15:31:45.278Z",
+        "lastAccessed": "2025-08-28T15:31:45.278Z"
     }
 ]
