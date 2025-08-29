@@ -1,1 +1,92 @@
-
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261578084787921%22%3A%22XVhveYHx%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-08-29T05:33:11.480Z",
+        "lastAccessed": "2025-08-29T05:33:11.487Z"
+    },
+    {
+        "key": "sb",
+        "value": "EQt6aCPrJ-YuLSPdpUEdgl-j",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-29T05:33:11.487Z",
+        "lastAccessed": "2025-08-29T05:33:11.487Z"
+    },
+    {
+        "key": "datr",
+        "value": "vByxaD7TfWleESbH7hfKONLQ",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-29T05:33:11.487Z",
+        "lastAccessed": "2025-08-29T05:33:11.487Z"
+    },
+    {
+        "key": "dpr",
+        "value": "4.236354351043701",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-29T05:33:11.487Z",
+        "lastAccessed": "2025-08-29T05:33:11.487Z"
+    },
+    {
+        "key": "wd",
+        "value": "636x1296",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-29T05:33:11.487Z",
+        "lastAccessed": "2025-08-29T05:33:11.487Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61578084787921",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-29T05:33:11.487Z",
+        "lastAccessed": "2025-08-29T05:33:11.487Z"
+    },
+    {
+        "key": "xs",
+        "value": "20%3AA5dOWjqeJE0zww%3A2%3A1756437714%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-29T05:33:11.487Z",
+        "lastAccessed": "2025-08-29T05:33:11.487Z"
+    },
+    {
+        "key": "fr",
+        "value": "0KQUTIH1Wsv3mWWWZ.AWf4ibW9TWMB969NU2MfD19HXV5KvTod-iOo8OweiRGUf-T436k.BosRy8..AAA.0.0.BosTuR.AWeQTMW4iLvY60vUNDXvc85-TU8",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-29T05:33:11.487Z",
+        "lastAccessed": "2025-08-29T05:33:11.487Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-29T05:33:11.487Z",
+        "lastAccessed": "2025-08-29T05:33:11.487Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-29T05:33:11.487Z",
+        "lastAccessed": "2025-08-29T05:33:11.487Z"
+    }
+]
